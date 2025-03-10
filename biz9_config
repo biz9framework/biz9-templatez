@@ -1,0 +1,8 @@
+VERSION='1.0.2'
+TITLE='BiZ9-TemplateZ';
+PROJECT_ID='19';
+PORT_ID="1904";
+REPO="git@github.com:biz9framework/biz9-templatez.git";
+BRANCH="main";
+HAS_MONGO_DB='false';
+
